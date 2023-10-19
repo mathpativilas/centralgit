@@ -4,3 +4,4 @@ o got flat
 rent is 20000
 mumbai flat is costly
 food is avarage
+mumbai weather is nice
