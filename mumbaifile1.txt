@@ -7,9 +7,5 @@ food is avarage
 mumbai weather is nice
 i am from pune
 hey good morning
-<<<<<<< HEAD
-night in singapore
-=======
 day in mumbai
 hii how are you all
->>>>>>> 2fde98b786e3fc7ec0703cfd77ba8347187373fa
